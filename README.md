@@ -1,7 +1,7 @@
-# Gods API Data Analysis
+# Dogs API Data Analysis
 
 ## Overview
-This project utilizes a free API to retrieve information about various gods, allowing for an in-depth analysis of two hypotheses:
+This project utilizes a free API to retrieve information about various dogs, allowing for an in-depth analysis of two hypotheses:
 1. Life Expectancy vs. Size
 2. Sexual Dimorphism in Weight
 
